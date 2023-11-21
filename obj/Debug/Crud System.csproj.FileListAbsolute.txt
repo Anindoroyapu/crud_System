@@ -1,0 +1,4 @@
+D:\My-first-project\Crud-System\obj\Debug\Crud System.csproj.AssemblyReference.cache
+D:\My-first-project\Crud-System\obj\Debug\Crud System.csproj.SuggestedBindingRedirects.cache
+D:\My-first-project\Crud-System\obj\Debug\Crud_System.Form1.resources
+D:\My-first-project\Crud-System\obj\Debug\Crud System.csproj.GenerateResource.cache
